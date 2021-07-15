@@ -1,0 +1,10 @@
+C:\Users\dongkun\source\repos\UpDown\UpDown\bin\Debug\UpDown.exe.config
+C:\Users\dongkun\source\repos\UpDown\UpDown\bin\Debug\UpDown.exe
+C:\Users\dongkun\source\repos\UpDown\UpDown\bin\Debug\UpDown.pdb
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.csprojAssemblyReference.cache
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.Form1.resources
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.Properties.Resources.resources
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.csproj.GenerateResource.cache
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.csproj.CoreCompileInputs.cache
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.exe
+C:\Users\dongkun\source\repos\UpDown\UpDown\obj\Debug\UpDown.pdb
